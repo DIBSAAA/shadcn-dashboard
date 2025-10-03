@@ -1,4 +1,4 @@
-import { ExpenditureListItem, ExpensesHeadType, expenditureListColumn, expenseHeadColumn } from "./columns"
+import { ExpenditureListItem, ExpensesHeadType, expenditureListColumn, expenseHeadColumn } from "./Columns"
 import { DataTable } from "./data-table"
  
 export default function DemoPage() {
